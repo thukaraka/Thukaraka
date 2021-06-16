@@ -2,7 +2,7 @@
 
 
 - 😃 I’m Thukaraka, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
-- 💻 I was an Software Engineering Intern @WSO2
+- 💻 I was a Software Engineering Intern @WSO2
 - 🔭 I worked on Magic Link Authenticator in my internship at WSO2 IAM Team.
 - 🌱 I’m currently working on Driver Quality Parameter Extraction for Ride Hailing Services.
 - 🖊️ I blog in : [Medium/Thukaraka_Blogs](https://pthukaraka-17.medium.com/)
